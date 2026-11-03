@@ -1,0 +1,13 @@
+{
+  "kind": "synthetic-input-NOT-model-output",
+  "width": 640,
+  "height": 480,
+  "sha256": "2e8bbad6433b5605697269c8bbae0037b721a8d5a76f04565d5237b3eb8708ce",
+  "bytes": 19127,
+  "generator": "generate.swift",
+  "content": "Procedural illustration: gold key and blue closed book on a brown table. No people or personal data.",
+  "oracle_is_not_prompt": true,
+  "expected_scene_review": "Check visually supported objects and relative positions; uncertain or empty output is allowed but does not establish successful object recognition.",
+  "inference_performed": false,
+  "license": "MIT"
+}

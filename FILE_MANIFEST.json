@@ -1,0 +1,121 @@
+{
+  "kind": "enki-second-memory-source-manifest",
+  "algorithm": "sha256",
+  "license_status": "MIT applied exclusively to the 28 approved files",
+  "copyright": "Copyright (c) 2026 Richard A Gómez",
+  "self_hash_note": "This manifest excludes itself; the external audit manifest includes its hash.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "1479bd67b7a50c1b5dfc7586304c1cfc1b613e6234bc0668f6673e426fc75407"
+    },
+    {
+      "path": "Backend/SecondMemory/README.md",
+      "sha256": "56f857ad1b09b2dbd8f68f56691cfea309dd033952a5d2375f131a3402926848"
+    },
+    {
+      "path": "Backend/SecondMemory/fixtures/generate.swift",
+      "sha256": "942101f11f4310a077a935260362feeb289cdcfdbdd8ee4646637e462a8a54aa"
+    },
+    {
+      "path": "Backend/SecondMemory/fixtures/manifest.json",
+      "sha256": "48bf1714558267dd727b1f8759b8866a82a0637fc16beed77111349980ef9924"
+    },
+    {
+      "path": "Backend/SecondMemory/fixtures/synthetic-table.jpg",
+      "sha256": "2e8bbad6433b5605697269c8bbae0037b721a8d5a76f04565d5237b3eb8708ce"
+    },
+    {
+      "path": "Backend/SecondMemory/meta_visual.py",
+      "sha256": "14c640fc789f6832534d76498fcb077eb988f08d9a0fc6dc7c755fdeb3cef896"
+    },
+    {
+      "path": "Backend/SecondMemory/operate.py",
+      "sha256": "f6492c6b38dd6d701bef36481997e5da0b7c5af4ac998dad2c2937327d884014"
+    },
+    {
+      "path": "Backend/SecondMemory/receipt.py",
+      "sha256": "c4fb8b617e8017a7d0bccdf4f7ec0b1f760f4cf4ad8b93edfba92eed365ccb72"
+    },
+    {
+      "path": "Backend/SecondMemory/test_meta_visual.py",
+      "sha256": "db4a09076650a6e66e861499fe2c47483934a1fcbabe2dcdc8336bd9b6f428a2"
+    },
+    {
+      "path": "Backend/SecondMemory/test_operator.py",
+      "sha256": "8a990c8e15e83c0c7993b1a7cff1aae1965ffc4c6391af97ed41ce7a11b928a1"
+    },
+    {
+      "path": "Backend/SecondMemory/test_readiness.py",
+      "sha256": "99ed0894665146cd8bc9b4b8586a13ddc530b0a4a44a17cd0604e6671926b2fe"
+    },
+    {
+      "path": "Core/ENKIObservationSession.swift",
+      "sha256": "fcb6f67e46d6fd4f2f478c842b0a29c4af4f4d8dd6d3e8f741bff70f959722f1"
+    },
+    {
+      "path": "Core/ENKIRemoteVisualContract.swift",
+      "sha256": "689b2f6e476f9bd3c57ce4a3f0cdf17240e76a6e726419db08869b6cb9050750"
+    },
+    {
+      "path": "Core/ENKISecondMemoryStore.swift",
+      "sha256": "1efb4b31a3680070cf6a2dc3c0742e4e26a08278e5f64f1bba552e4b42520ff8"
+    },
+    {
+      "path": "DEMO_SCRIPT.md",
+      "sha256": "49ff75299dc660b04cfa140804df1b750153b89c927cc75e4eb39145ba6143e5"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "951379fe3ab6dfc15d11118604b9a8b0cf48640c13b1f86dbdfc89e27d111fbd"
+    },
+    {
+      "path": "OPERATIONS.md",
+      "sha256": "1be052f3a97ee5d063d6b2b6f8b7c24e62ce18c5356d14df327f4131f841c07f"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "d828838844de981807fdc7590df25f1d47bb5efdf519050ed9a63d50d98ef038"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d2609385bc476b8e5485513381d71378dfa8bd4dff211f9b417b64ee7414da04"
+    },
+    {
+      "path": "Tests/ENKIObservationTests.swift",
+      "sha256": "d17c32e8170d66631d4620fcd096b48e26f61a96475c0b8bc4688cbb2554903c"
+    },
+    {
+      "path": "Tests/ENKISecondMemoryStoreTests.swift",
+      "sha256": "7d32793c2226775a132617241f429ef60d26776663b812335c4fa516bdc9df96"
+    },
+    {
+      "path": "Tools/MemoryDemo.swift",
+      "sha256": "3bb63fe5ea92499ff6c0ea9539eda707dab6483c170afde02fb31b4a0e7d0152"
+    },
+    {
+      "path": "Tools/RecordedMemory.swift",
+      "sha256": "90b299a8c9dc77537fa0ac149766d3a93eea234384925697ce4f4ed9e0327dfd"
+    },
+    {
+      "path": "Tools/recorded_memory.py",
+      "sha256": "c8cbca1bef53a8c9419cdeb03982394204a667d3757425fe828370ddb04e57ce"
+    },
+    {
+      "path": "Tools/test_recorded_memory.py",
+      "sha256": "6d25e0feee133990acfb6cf38934ae92991d25e42a2df7c6e832095299879987"
+    },
+    {
+      "path": "contracts/scene.schema.json",
+      "sha256": "158693d1fee3d2363fec61296c2cc2bb73476f6971d6c2c0c004d6b952320ae5"
+    },
+    {
+      "path": "run_checks.py",
+      "sha256": "01a0e06a6c373942bd5f1fc0237906383886b0e2b045a65964eae799717bc8a9"
+    },
+    {
+      "path": "subtitles.en.srt",
+      "sha256": "c0d6afaad954adc1b2ef5e0b9a63631c9608cf9c33334f96ffe434c6b97b4ce3"
+    }
+  ]
+}

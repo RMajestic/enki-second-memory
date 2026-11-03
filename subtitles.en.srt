@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:10,000
+ENKI’s private iOS app, authentication and glasses camera
+existed before this hackathon.
+
+2
+00:00:10,000 --> 00:00:20,000
+The new work is Second Memory: bounded observation, Meta visual
+analysis, evidence storage and recall.
+
+3
+00:00:20,000 --> 00:00:30,000
+The question is simple: where did I last see my keys? The answer
+must point to evidence, not a guess.
+
+4
+00:00:30,000 --> 00:00:40,000
+The session requires iOS authorization and consent. Observation
+is visible and limited to five minutes.
+
+5
+00:00:40,000 --> 00:00:50,000
+Sampling is automatic within the active foreground session,
+capped at one selected image per second.
+
+6
+00:00:50,000 --> 00:01:00,000
+Sampling does not mean automatic upload or permanent memory.
+Those actions require separate consent.
+
+7
+00:01:00,000 --> 00:01:10,000
+For this controlled test, the scene contains test keys on a
+table, with no personal or third-party content.
+
+8
+00:01:10,000 --> 00:01:20,000
+One manual analysis sends one authorized image through an HTTPS
+backend. The API key stays on the server.
+
+9
+00:01:20,000 --> 00:01:30,000
+Muse Spark 1.3 returns a structured scene and objects. We
+display uncertainty and provider provenance.
+
+10
+00:01:30,000 --> 00:01:40,000
+We inspect the actual image and result before deciding whether
+to save this observation locally.
+
+11
+00:01:40,000 --> 00:01:50,000
+Saving is explicit. The record links capture time, analysis and
+the exact image used as evidence.
+
+12
+00:01:50,000 --> 00:02:00,000
+After stopping observation, we ask where the keys were last
+seen. Retrieval reads saved records only.
+
+13
+00:02:00,000 --> 00:02:10,000
+The result shows the latest matching capture time and its image.
+It does not claim the keys are still there.
+
+14
+00:02:10,000 --> 00:02:20,000
+This version uses a basic text query for keys. It does not
+provide wake-word listening or general conversation.
+
+15
+00:02:20,000 --> 00:02:30,000
+Individual deletion needs confirmation. Locking or leaving the
+foreground stops the protected workflow.
+
+16
+00:02:30,000 --> 00:02:40,000
+The independent package runs without private ENKI. Its offline
+tests and synthetic demo are labelled clearly.
+
+17
+00:02:40,000 --> 00:02:50,000
+Second Memory is a prototype of evidence-linked recall, with
+explicit privacy controls and honest limits.

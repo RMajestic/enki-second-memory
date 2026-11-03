@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "scene_description",
+    "objects",
+    "uncertainties"
+  ],
+  "properties": {
+    "scene_description": {
+      "type": "string"
+    },
+    "objects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "label",
+          "attributes",
+          "location_in_scene",
+          "confidence"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "attributes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "location_in_scene": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    "uncertainties": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
