@@ -1,6 +1,6 @@
 # ENKI Second Memory
 
-**Release candidate, 3 November 2026. Not published; MIT licensed independent package.**
+**Public hackathon prototype, 5 November 2026. MIT licensed independent package.**
 
 ENKI's native iOS host, authentication, Ray-Ban camera integration, audiovisual
 library and voice tools existed before this hackathon. The new work is Second
@@ -13,7 +13,7 @@ access to ENKI's private repository, Apple signing identities or personal data.
 
 | Evidence | Status |
 | --- | --- |
-| Ray-Ban physical observation | Owner previously reported 514 frames / 33 valid samples in 34 seconds; not independently rerun here |
+| Ray-Ban physical observation | Previously reported test: 514 frames / 33 valid samples in 34 seconds. The submission video now shows physical observation |
 | Meta model use | One prior real Muse Spark 1.3 Standard inference on a procedural synthetic image, through the Mac CLI |
 | Independent backend and core | Offline reproducible tests and a synthetic memory demo; not model accuracy evidence |
 | iPhone capture → HTTPS → Meta → save → query | Implementation prepared; combined physical validation pending |
@@ -65,7 +65,7 @@ contracts/scene.schema.json     strict model-output scene schema
 run_checks.py                  isolated, dependency-free check runner
 PROVENANCE.md                  pre-event boundary and source treatment
 OPERATIONS.md                  HTTPS setup, stop and diagnostics
-DEMO_SCRIPT.md + subtitles.en.srt   2:50 evidence-dependent recording plan
+DEMO_SCRIPT.md + subtitles.en.srt   original recording plan, not final-video subtitles
 FILE_MANIFEST.json             reviewed file hashes; no private Git history
 ```
 
@@ -103,7 +103,9 @@ That prior result was checked offline for response-hash/identity/scene consisten
 Its private receipt, provider identifier, credentials and account details are not
 included. This summary is an operator-verified record, not independently signed
 provider evidence. Judges can run their own specifically authorized request using
-the documented flow; approved recorded demonstration footage is still pending.
+the documented flow. The submission video shows actual glasses observation and
+voice transcription; it does not show a completed physical end-to-end recall.
+The video link is supplied separately to judges and is not listed here.
 The earlier real call does not establish the pending end-to-end iPhone workflow.
 No Meta call is performed by the offline checks.
 
@@ -203,4 +205,8 @@ The 28 approved files in this independent package are licensed under [MIT](LICEN
 Copyright (c) 2026 Richard A Gómez. R Majestic Studio is the project brand,
 not an incorporated company. This grant does not cover the original private ENKI
 application, third-party services, or trademarks.
-No public repository, upload, release or submission has been made.
+This independent code package is published at
+https://github.com/RMajestic/enki-second-memory. The hackathon entry was submitted
+on 5 November 2026 with a separately supplied 2:52 Spanish video and English
+subtitles. The video and its access link are intentionally not included here.
+Publication/submission does not establish completed physical end-to-end validation.

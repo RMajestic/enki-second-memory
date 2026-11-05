@@ -2,11 +2,11 @@
 
 Pre-event reference: `9ee8afcdc2e8adf7c650c83ffbfdfff147546d48`
 (author/committer 25 October 2026, 21:41:19 +01:00). Source branch:
-`feature/enki-plasma-stellar`. Current changes remain uncommitted; no fabricated
+`feature/enki-plasma-stellar`. Private-host changes remain separate from the public package history; no fabricated
 commit dates or publication history are used. Absence from a baseline and file
 modification dates are not independent proof of when authorship began.
 
-## New local work proposed for the independent package
+## New work included in the independent package
 
 | Public path | Private source / treatment |
 | --- | --- |
@@ -53,7 +53,14 @@ receipt or provider output is not inferred from permission to run it.
 
 MIT approved and applied to this independent package only, with copyright held by
 Richard A Gómez. R Majestic Studio is the project brand, not a legal corporation.
-Remaining gates: review of third-party notices and exact final manifest;
-reviewed authentic Meta evidence; physical end-to-end result; public repository
-URL/revision; accessible final video; manual submission review. Creating local
-staging files does not satisfy these gates or publish anything.
+The independent reference package is publicly available at
+https://github.com/RMajestic/enki-second-memory. The hackathon entry was submitted
+on 5 November 2026. Its reviewed 2:52 video was supplied separately to the judges;
+neither the video nor its access link is distributed in this repository.
+
+Completed publication/submission steps do not imply full physical end-to-end
+validation. The footage demonstrates real observation and voice transcription;
+a completed physical capture → remote analysis → saved evidence → spoken recall
+remains unvalidated. The earlier real Meta receipt stays private, and the public
+tests still use explicitly synthetic responses. No private iOS adapter, credential,
+account record or original ENKI history is added by this documentation update.

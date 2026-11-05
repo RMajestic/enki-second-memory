@@ -1,6 +1,14 @@
 # Demo de 2:50 — narración española y subtítulos ingleses
 
-**Guion preparado, no vídeo grabado ni prueba física ejecutada.**
+**Guion inicial de planificación; no es la transcripción del vídeo entregado.**
+La candidatura fue enviada el 5 de noviembre de 2026 con un vídeo de 2:52,
+audio español y subtítulos ingleses. Ese vídeo muestra observación física y
+transcripción de voz, y declara pendiente la validación física end-to-end.
+El vídeo y su enlace se entregaron por separado a los jueces y no se incluyen aquí.
+El archivo `subtitles.en.srt` corresponde al siguiente plan original de 2:50,
+no al montaje final. Los pasos de inferencia/recuperación del plan siguen siendo
+un escenario para validación posterior, no evidencia de ejecución completada.
+
 Grabar únicamente tras validar el recorrido real. No es necesario mostrar al
 propietario en cámara ni hablar inglés. Capturar solo pantalla/objeto de prueba;
 ocultar cuentas, Keychain, notificaciones, otras personas e imágenes privadas.
@@ -62,9 +70,10 @@ honestamente y corregir/revalidar antes de proclamar el recorrido completo.
 
 2:40–2:50: Second Memory es un prototipo de memoria con evidencia, controles explícitos de privacidad y límites reconocidos.
 
-## Material que aún debe producirse
+## Diferencias respecto a la entrega final
 
-Grabación física autorizada, captura del resultado real y su evidencia, montaje,
-locución final, subtítulos retimados, revisión de privacidad y enlace accesible
-para jueces. No hay un MP4 final en este paquete. El SRT es un recurso preparado,
-no prueba de que ya exista una demostración física exitosa.
+La grabación y el montaje final se completaron fuera de este paquete. El guion
+anterior se conserva como plan de demostración para una futura validación completa;
+no describe un flujo físico ya superado. El vídeo entregado mantiene explícitas
+las limitaciones del prototipo y no muestra una respuesta de memoria fabricada.
+No hay un MP4 ni enlace al vídeo en este repositorio.

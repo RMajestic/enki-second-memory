@@ -63,7 +63,7 @@
     },
     {
       "path": "DEMO_SCRIPT.md",
-      "sha256": "49ff75299dc660b04cfa140804df1b750153b89c927cc75e4eb39145ba6143e5"
+      "sha256": "aa7a62fd9d2ebdb7b06c193fad5fe904a3b2073eaa84ee3c1d53a69eb5f16d78"
     },
     {
       "path": "LICENSE",
@@ -75,11 +75,11 @@
     },
     {
       "path": "PROVENANCE.md",
-      "sha256": "d828838844de981807fdc7590df25f1d47bb5efdf519050ed9a63d50d98ef038"
+      "sha256": "0593a5daf385122fe1aeacec4a60e429d33f57ccd95398a183b11ef831d64d03"
     },
     {
       "path": "README.md",
-      "sha256": "d2609385bc476b8e5485513381d71378dfa8bd4dff211f9b417b64ee7414da04"
+      "sha256": "4186d49eb0ac7c9618aa4fedbc07675cb9cd9f5810bcca3be245b11f67cd1026"
     },
     {
       "path": "Tests/ENKIObservationTests.swift",
